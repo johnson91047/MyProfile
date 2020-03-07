@@ -6,6 +6,14 @@
  * Made By MaterializeCSS.com
  */
 
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.chinese {
+  font-family: "Noto Serif TC", serif;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
